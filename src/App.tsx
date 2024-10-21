@@ -21,7 +21,7 @@ const BirthdayPage: React.FC = () => (
       />
     </div>
     <h1 className='text-4xl font-bold mb-4 text-purple-600'>Happy Birthday</h1>
-    <p className='text-2xl mb-4 text-gray-500'>To you ,</p>
+    <p className='text-2xl mb-4 text-gray-500'>To you 🛫🌊🏝</p>
     <p className='text-xl text-purple-500'>The best person in the world 🌎</p>
   </div>
 );
